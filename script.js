@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'image/stay.jpg',
+        img : 'stay.jpg',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
-        music : 'song/_Mere-Naam-Tu-Full-Video-Song-ZERO-Shah-Rukh-Khan-Anushka-Sha.mp3'
+        music : '_Mere-Naam-Tu-Full-Video-Song-ZERO-Shah-Rukh-Khan-Anushka-Sha.mp3'
     },
     {
-        img : 'image/fallingdown.jpg',
+        img : 'fallingdown.jpg',
         name : 'Falling Down',
         artist : 'Wid Cards',
-        music : 'song/_Tum Hi Ho_ Aashiqui 2 Full Song With Lyrics _ Aditya Roy Kapur_ Shraddha Kapoor(MP3_128K).mp3'
+        music : '_Tum Hi Ho_ Aashiqui 2 Full Song With Lyrics _ Aditya Roy Kapur_ Shraddha Kapoor(MP3_128K).mp3'
     },
     {
-        img : 'image/faded.jpg',
+        img : 'faded.jpg',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : 'song/01 Tera Fitoor (Genius).mp3'
+        music : '01 Tera Fitoor (Genius).mp3'
     },
     {
-        img : 'image/ratherbe.jpg',
+        img : 'ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
-        music : 'song/03 Hua Hain Aaj Pehli Baar - Sanam Re (Armaan Malik) 320Kbps.mp3'
+        music : '03 Hua Hain Aaj Pehli Baar - Sanam Re (Armaan Malik) 320Kbps.mp3'
     }
 ];
 
